@@ -11,7 +11,7 @@
 ## 文件结构
 
 - `promptPMPRD.md`：示例笔记文件（或其他相关文件）。
-- `LatotoPRD.md`：新添加的笔记文件。
+- `LatotoPRD/`：笔记文件夹。
 
 ## 使用说明
 
@@ -32,3 +32,4 @@
 - 2026年3月7日：创建README.md文件。
 - 2026年3月7日：创建promptPMPRD.md文件。
 - 2026年3月7日：添加LatotoPRD.md文件。
+- 2026年3月8日：LatotoPRD转换为文件夹结构。
